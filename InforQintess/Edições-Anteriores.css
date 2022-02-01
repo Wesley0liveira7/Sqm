@@ -1,0 +1,109 @@
+ .u-section-1 {
+  background-image: url("images/fundo-branco-com-desenho-de-padrao-de-linha-hexagonal_1017-28442.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 983px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-style: italic;
+  margin: 84px 482px 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 282px;
+  height: 486px;
+  margin: -67px 62px 0 auto;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.5rem;
+  margin: -410px 570px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 1px;
+  margin: 92px auto 60px 160px;
+  padding: 9px 88px 11px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 811px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 33px;
+    margin-right: 282px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 108px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -298px;
+    margin-right: 370px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 621px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 62px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 150px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 466px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 121px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 293px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 6px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-top: 34px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -428px;
+  }
+}
